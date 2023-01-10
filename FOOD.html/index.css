@@ -1,0 +1,101 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+#Tab2
+{ margin-left:4.5%;
+  
+}
+.Food
+{
+    height:200px;
+    width:300px;
+    padding-left:20px;
+}
+.TB{
+    padding-top: 20px;
+}
+.CD{
+    padding-top: 5px;
+}
+.OB
+{
+    height:250px;
+    padding-left:170px;
+    padding-bottom: 40px;
+}
+.Title3
+{
+text-align:center;
+font-size:25px;
+font-family:"Cream";
+padding-top: 5px;
+}
+@font-face {
+    font-family:'LemonChicken';
+    src: url(/Users/apple/Library/Fonts/LEMONCHI.ttf);
+}
+@font-face {
+    font-family:"CaviarDreams";
+    src: url(/Users/apple/Library/Fonts/CaviarDreams.ttf);
+}
+@font-face {
+    font-family:"Cream";
+    src: url(/Users/apple/Library/Fonts/Cream.ttf);
+}
+#Title1{
+    padding-top:1vh;
+    font-size:40px;
+    text-align: center;
+    font-family:'LemonChicken';
+    color: #FFCC8F;
+}
+#Tab1{
+    margin-left:63%;
+}
+.Tb1{
+    padding-left:30px;
+}
+#NAVI{
+    background-color: #054262;
+}
+.Tb1{
+    text-decoration: none;
+    color: white;
+    font-family:"CaviarDreams";
+}
+#name{
+    background-color: #5588A3;
+}
+marquee{
+    font-size: 20px;
+    font-family: "CaviarDreams";
+}
+#offer{
+    background-color: #E4DCCF;
+}
+#gal{
+    background-color: #F0EBE3;
+}
+#Contact{
+    background-color: #7D9D9C;
+}
+#cx3{
+    padding-left:40%;
+    
+}
+footer {
+    background-color:black; 
+    color: white;   
+}
+footer ol{
+    margin-left: 10%;
+}
+footer h5{
+    margin-left: 10%;
+    font-size: 20px;
+}
+ footer h3{
+    padding-top: 5px;
+
+ }

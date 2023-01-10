@@ -1,0 +1,145 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+#T1{
+    padding-top:5px;
+    margin-top:10vh;
+    border:solid;
+    height:300px;
+    width:450px;
+    border-radius:10px;
+    margin-left:-12%;
+
+}
+input{
+    height:34px;
+    width: 350px;
+    border-radius:8px;
+}
+@font-face {
+    font-family:'LemonChicken';
+    src: url(/Users/apple/Library/Fonts/LEMONCHI.ttf);
+}
+    h1{ text-align: center;
+        font-family:'LemonChicken';
+        font-size: 40px;
+        padding-top: 2vh;
+        padding-bottom: 10px;
+        color: white;
+        background-color: #19282F;
+    }
+#Div1{
+    margin-top: 10vh;
+    display:inline-block;
+    margin-left:550px;
+}
+#login{
+    border:solid;
+    height:35px;
+    width: 350px;
+    background-color:#47B5FF;
+    font-size:16px;
+}
+input::placeholder
+{
+    text-align: center;
+    font-size: 16px;
+}
+#forgot{
+    border: solid;
+    height:30px;
+    width:200px;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-left:0px;
+    border-radius: 5px;
+    background-color: #FF8B8B;
+
+}
+#ANK{
+    display: inline-block;
+    border: solid;
+    height:23px;
+    width:200px;
+    padding-top:5px;
+    color:black;
+    margin-right:0px;
+    border-radius:5px;
+    background-color:#9FE6A0;
+}
+
+#forgot:hover
+{
+    background-color: #EB4747;
+}
+#login:hover{
+    background-color: #1363DF;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+.login{
+    border:none;
+    outline: solid 2px;
+}
+input:focus{
+    border:none;
+    outline: 1px solid #4F98CA;
+
+}
+#LOG{
+    height:100vh;
+    background-color: #A2B5BB;
+}
+#ANK:hover
+{  
+    background-color: #019267;
+}
+#TABB2{
+    display: inline-block;
+    border:solid;
+    margin-left:31%;
+    width:500px;
+    height:390px;
+    padding-top:2%;
+    padding-left: 3%;
+    padding-right:-1%;
+    border-radius:12px;
+    margin-top: 20vh;
+}
+#REGG{
+    height:100vh;
+    background-color: #0e3150;
+    color:white
+}
+label{
+    font-size: 20px;
+    font-family:"caviardreams";
+}
+#butt2{
+    margin-top: 20px;
+    margin-left:65px;
+    height:40px;
+    width:350px;
+    background-color: #47B5FF;
+}
+.RG{
+    margin-top: 15px;
+}
+@font-face {
+    font-family:'Fashion Fetish Outline';
+    src: url(/Users/apple/Library/Fonts/FashionFetishOutline.ttf);
+}
+#BB{
+    font-family: 'Fashion Fetish Outline';
+    font-size: 30px;
+    
+}
+#butt2:hover
+{
+    background-color: #1363DF;
+}
